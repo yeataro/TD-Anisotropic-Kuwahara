@@ -5,7 +5,7 @@ https://github.com/yeataro/TD-Anisotropic-Kuwahara
 
 ![icon](https://raw.githubusercontent.com/yeataro/TD-Anisotropic-Kuwahara/master/icon.jpg)
 
-Jan Eric Kyprianidis' Anisotropi Kuwahara to TouchDesigner Migration.
+Migrate Jan Eric Kyprianidis' Anisotropic Kuwahara filter to TouchDesigner.
 
 Original code by Jan Eric Kyprianidis <www.kyprianidis.com>
 
