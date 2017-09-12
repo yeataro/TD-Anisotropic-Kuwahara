@@ -1,6 +1,8 @@
 # TD-Anisotropic-Kuwahara
 TD Anisotropic Kuwahara v1.0
 
+https://github.com/yeataro/TD-Anisotropic-Kuwahara
+
 ![icon](https://raw.githubusercontent.com/yeataro/TD-Anisotropic-Kuwahara/master/icon.jpg)
 
 Jan Eric Kyprianidis' Anisotropi Kuwahara to TouchDesigner Migration.
