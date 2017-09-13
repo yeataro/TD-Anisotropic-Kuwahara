@@ -13,6 +13,8 @@ https://code.google.com/p/gpuakf/
 
 https://code.google.com/p/polyakf/
 
+Unfinished features: krnl generation
+
 [![VIDEO](https://raw.githubusercontent.com/yeataro/TD-Anisotropic-Kuwahara/master/screenshots/2017-09-12_132747.png)](https://www.youtube.com/watch?v=_Tz4NWz0SnA "VIDEO")
 
 ![ex1](https://raw.githubusercontent.com/yeataro/TD-Anisotropic-Kuwahara/master/example/cat.jpg)
