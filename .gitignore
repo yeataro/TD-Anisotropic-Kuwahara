@@ -2,6 +2,7 @@
 
 #backup
 Backup/
+*.*.toe
 
 #Crash
 *.dmp
